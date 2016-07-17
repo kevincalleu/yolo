@@ -1,4 +1,4 @@
-Welcome to the darknet wiki!
+Welcome to the darknet wiki!!
 I want to create an question but,I forget how to do.So I just put it here.
 
 I want compiler yolo with OpenCV but I failed.
