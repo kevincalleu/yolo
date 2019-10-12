@@ -11,6 +11,8 @@ You only look once (YOLO) is a system for detecting objects on the [Pascal VOC](
 
 YOLO is joint work with [Santosh](http://homes.cs.washington.edu/~santosh/), [Ross](http://homes.cs.washington.edu/~santosh/), and [Ali](http://homes.cs.washington.edu/~ali/), and is described in detail in our [paper](http://arxiv.org/abs/1506.02640).
 
+## Demo
+https://elody.com/scenario/plan/88
 ## How it works
 
 All prior detection systems repurpose classifiers or localizers to perform detection. They apply the model to an image at multiple locations and scales. High scoring regions of the image are considered detections.
