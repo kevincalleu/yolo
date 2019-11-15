@@ -1,4 +1,4 @@
-# YOLO: Real-Time Object Detection
+### YOLO: Real-Time Object Detection
 
 [![YOLO Watches Nature Part 2](http://img.youtube.com/vi/K9a6mGNmhbc/hqdefault.jpg)](http://www.youtube.com/watch?v=K9a6mGNmhbc)
 
